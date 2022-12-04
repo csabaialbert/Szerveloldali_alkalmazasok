@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.1.32421.90
+VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAMF", "GAMF\GAMF.csproj", "{0B9AAC39-CFCC-4A78-9341-116903083DD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAMF", "GAMF\GAMF.csproj", "{AE3D8D06-E4D8-42A1-9414-DC26AF67D487}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0B9AAC39-CFCC-4A78-9341-116903083DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B9AAC39-CFCC-4A78-9341-116903083DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B9AAC39-CFCC-4A78-9341-116903083DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B9AAC39-CFCC-4A78-9341-116903083DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE3D8D06-E4D8-42A1-9414-DC26AF67D487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3D8D06-E4D8-42A1-9414-DC26AF67D487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3D8D06-E4D8-42A1-9414-DC26AF67D487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3D8D06-E4D8-42A1-9414-DC26AF67D487}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {64D6A828-8C29-48EE-9CF8-1A146F5F72E6}
+		SolutionGuid = {16E9B9A9-7A88-4743-B661-A484D2C1E36B}
 	EndGlobalSection
 EndGlobal

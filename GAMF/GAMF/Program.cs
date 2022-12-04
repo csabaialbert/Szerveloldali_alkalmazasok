@@ -6,13 +6,12 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
 ConfigurationManager Configuration = builder.Configuration;
 builder.Services.AddDbContext<GAMFDbContext>(options => options.UseNpgsql(
                 Configuration["ConnectionStrings:GAMFDbConnection"]));
 
 var app = builder.Build();
-
+AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
