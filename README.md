@@ -5,5 +5,12 @@ ASP.NETCore webalkalmazás EntityFramework használatával és Postgre SQL adatb
 Csabai Albert,
 Neptun kód: EZS38V.
 
+## Tanév: ##
+2022/2023 őszi félév
+
+## Intézmény: ##
+Neumann János Egyetem, 
+GAMF Műszaki és Informatikai Kar
+
 ## Feladat megnevezése: ##
 GAMF 
