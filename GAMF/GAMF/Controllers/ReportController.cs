@@ -44,7 +44,7 @@ namespace GAMF_N.Controllers
             {
                 var res = new StudentsCreditVM();
                 res.Id = item.Id;
-                res.FirstMidName = item.LastName;
+                res.FirstMidName = item.FirstMidName;
                 res.LastName = item.LastName;
                 res.kreditszam = 0;
                 foreach (var item1 in en)
