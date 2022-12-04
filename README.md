@@ -1,9 +1,9 @@
-#Szerveroldali alkalmazások tantárgy beadandó feladat
+# Szerveroldali alkalmazások tantárgy beadandó feladat
 ASP.NETCore webalkalmazás EntityFramework használatával és Postgre SQL adatbázissal.
 
-##Készítette:
+## Készítette: ##
 Csabai Albert,
 Neptun kód: EZS38V.
 
-##Feladat megnevezése:
+## Feladat megnevezése: ##
 GAMF 
